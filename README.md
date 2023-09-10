@@ -3,11 +3,14 @@ Introducing an Android app that transforms your physical Sudoku puzzles into a d
 
 Screenshots:
 
-Menu: 
-![Acrobat_5U72VgKeXo](https://github.com/jlor9519/AndroidSudokuScanner/assets/34551689/ac0ab6e5-1993-4fcb-8fb0-26909bc6b6e0)
+Menu:<br>
+<center>
+    <img src="https://github.com/jlor9519/AndroidSudokuScanner/assets/34551689/ac0ab6e5-1993-4fcb-8fb0-26909bc6b6e0" alt="Menu Screenshot">
+</center>
 
-
-Scanning Sudokus:
-
-![Acrobat_d7oxI7d2dO](https://github.com/jlor9519/AndroidSudokuScanner/assets/34551689/c8a2ee0b-dce0-4910-8947-93191076a444)
-![Acrobat_jx1NPXMddw](https://github.com/jlor9519/AndroidSudokuScanner/assets/34551689/b4e7a057-6f79-4b87-b00d-0da812d83259)
+Scanning Sudokus:<br>
+<center>
+    <img src="https://github.com/jlor9519/AndroidSudokuScanner/assets/34551689/c8a2ee0b-dce0-4910-8947-93191076a444" alt="Scanning Sudoku Screenshot 1">
+    &rarr;
+    <img src="https://github.com/jlor9519/AndroidSudokuScanner/assets/34551689/b4e7a057-6f79-4b87-b00d-0da812d83259" alt="Scanning Sudoku Screenshot 2">
+</center>
