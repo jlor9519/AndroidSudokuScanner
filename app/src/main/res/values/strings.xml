@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Sudo</string>
+
+    <!-- ActivitySudokuGame -->
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="delete">Del</string>
+
+    <string name="solve">Solve</string>
+    <string name="hint">Hint</string>
+    <string name="menu">Menu</string>
+
+    <!-- MainActivity -->
+    <string name="appname">Sudo</string>
+    <string name="choose_picture">Gallery</string>
+    <string name="settings">Settings</string>
+    <string name="use_camera">Camera</string>
+
+    <!-- ConfirmPictureActivity -->
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="rotate_right">Rotate Right</string>
+    <string name="rotate_left">Rotate Left</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="look_header">Look</string>
+    <string name="misc_header">Misc</string>
+
+    <!-- Look Preferences -->
+    <string name="bord_color_title">Bord color</string>
+    <string name="highlight_color_light_title">Highlight color (light)</string>
+    <string name="highlight_color_dark_title">Highlight color (dark)</string>
+    <string name="font_size_title">Font size</string>
+
+    <string name="bord_color_summary">Change line color of sudoku bord </string>
+    <string name="highlight_color_light_summary">Change color of highlighted cells </string>
+    <string name="highlight_color_dark_summary">Change color of pressed cell </string>
+    <string name="fontsize_summary">Change size of sudoku font </string>
+
+    <!-- Misc Preferences -->
+    <string name="debug_title">Debug</string>
+    <string name="debug_summary_off">Debug mode off</string>
+    <string name="debug_summary_on">Will save all images, that are produced during image processing
+    </string>
+
+    <string name="saveImg_title">Save images</string>
+    <string name="saveImg_summary_off">Not saving caputred images</string>
+    <string name="saveImg_summary_on">Currently saving all images that are captured with the camera</string>
+
+</resources>

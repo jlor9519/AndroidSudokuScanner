@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/jan/Documents/sudoku/AndroidSudokuScanner/openCV460/.cxx/Debug/2d6qn604/arm64-v8a'
+ninja: no work to do.

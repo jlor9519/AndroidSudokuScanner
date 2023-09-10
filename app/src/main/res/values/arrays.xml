@@ -1,0 +1,34 @@
+<resources>
+    <!-- Color Names Array -->
+    <string-array name="colors">
+        <item>black</item>
+        <item>gray</item>
+        <item>blue</item>
+        <item>red</item>
+        <item>green</item>
+    </string-array>
+
+    <string-array name="colors_light">
+        <item>light gray</item>
+        <item>light blue</item>
+        <item>light red</item>
+        <item>light green</item>
+    </string-array>
+
+    <!-- Color Values Array -->
+    <string-array name="colors_values">
+        <item>#000000</item>
+        <item>#A4A4A4</item>
+        <item>#1689E4</item>
+        <item>#BA1C1C</item>
+        <item>#2CBA32</item>
+    </string-array>
+
+    <string-array name="colors_light_values">
+        <item>#C8C8C8</item>
+        <item>#74C1FF</item>
+        <item>#FF8484</item>
+        <item>#A6FFAA</item>
+    </string-array>
+
+</resources>

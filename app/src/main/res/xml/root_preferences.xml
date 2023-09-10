@@ -1,0 +1,46 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!--<PreferenceCategory app:title="@string/look_header">
+
+        <ListPreference
+            app:key="board_color"
+            app:title="@string/bord_color_title"
+            app:entries="@array/colors"
+            app:entryValues="@array/colors_values"
+            app:defaultValue="#000000"
+            app:summary="@string/bord_color_summary"/>
+
+        <ListPreference
+            app:key="highlight_color_light"
+            app:title="@string/highlight_color_light_title"
+            app:entries="@array/colors_light"
+            app:entryValues="@array/colors_light_values"
+            app:defaultValue="#C8C8C8"
+            app:summary="@string/highlight_color_light_summary"/>
+
+        <ListPreference
+            app:key="highlight_color_dark"
+            app:title="@string/highlight_color_dark_title"
+            app:entries="@array/colors"
+            app:entryValues="@array/colors_values"
+            app:defaultValue="#A4A4A4"
+            app:summary="@string/highlight_color_dark_summary"/>
+    </PreferenceCategory> -->
+
+    <PreferenceCategory app:title="@string/misc_header">
+
+        <SwitchPreferenceCompat
+            app:key="saveImg"
+            app:title="@string/saveImg_title"
+            app:summaryOn="@string/saveImg_summary_on"
+            app:summaryOff="@string/saveImg_summary_off"/>
+
+        <SwitchPreferenceCompat
+            app:key="debug"
+            app:title="@string/debug_title"
+            app:summaryOn="@string/debug_summary_on"
+            app:summaryOff="@string/debug_summary_off"/>
+
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

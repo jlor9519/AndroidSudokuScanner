@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "E:\\Uni Lemgo\\AndroidSudokuScanner\\openCV460\\libcxx_helper\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\jan\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+      "-C",
+      "E:\\Uni Lemgo\\AndroidSudokuScanner\\openCV460\\.cxx\\Debug\\5l4d4l1u\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\jan\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+    "-C",
+    "E:\\Uni Lemgo\\AndroidSudokuScanner\\openCV460\\.cxx\\Debug\\5l4d4l1u\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "opencv_jni_shared::@6890427a1f51a3e7e1df": {
+      "artifactName": "opencv_jni_shared",
+      "abi": "x86",
+      "output": "E:\\Uni Lemgo\\AndroidSudokuScanner\\openCV460\\.cxx\\Debug\\5l4d4l1u\\x86\\libopencv_jni_shared.a",
+      "runtimeFiles": []
+    }
+  }
+}

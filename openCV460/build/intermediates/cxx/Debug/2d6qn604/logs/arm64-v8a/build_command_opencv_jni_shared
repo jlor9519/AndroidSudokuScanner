@@ -1,0 +1,4 @@
+/Users/jan/Library/Android/sdk/cmake/3.18.1/bin/ninja \
+  -C \
+  /Users/jan/Documents/sudoku/AndroidSudokuScanner/openCV460/.cxx/Debug/2d6qn604/arm64-v8a \
+  opencv_jni_shared
